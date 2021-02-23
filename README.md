@@ -1,6 +1,6 @@
 # Webinar: Dockerize your applications
 
-Free to use for personal, educational purposes.
+Free to use for personal and non-commercial educational purposes only.
 
 ---
 Let us know if we can do anything for you! We also offer these courses to universities, companies and other educational organizations. 
