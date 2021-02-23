@@ -1,4 +1,5 @@
 <img src="https://github.com/wsdt/wsdt.github.io/blob/gh-pages/img/logos/logo_combination_registered.png" alt="Wavect" />
+
 # Webinar: Dockerize your applications
 
 
